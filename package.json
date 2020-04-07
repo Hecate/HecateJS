@@ -25,7 +25,7 @@
     "d3-queue": "^3.0.7",
     "geojson-rewind": "^0.3.1",
     "geojson-validation": "^0.2.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "n-readlines": "^1.0.0 ",
     "nock": "^11.7.0",
     "parallel-transform": "^1.2.0",
