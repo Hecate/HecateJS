@@ -10,6 +10,10 @@
 
 ## Version History
 
+### v12.0.1
+
+- :arrow_up: Update dependencies
+
 ### v12.0.0
 
 - :rocket: import module now accepts a stream or a string filepath
