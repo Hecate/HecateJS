@@ -20,7 +20,7 @@
   "dependencies": {
     "@mapbox/geojsonhint": "^3.0.0",
     "@turf/turf": "^5.1.6",
-    "aws-sdk": "^2.224.1",
+    "aws-sdk": "^2.814.0",
     "better-sqlite3": "^7.0.1",
     "d3-queue": "^3.0.7",
     "geojson-rewind": "^0.3.1",
