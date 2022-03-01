@@ -31,7 +31,7 @@
     "parallel-transform": "^1.2.0",
     "prompt": "^1.0.0",
     "request": "^2.88.0",
-    "requestretry": "^4.0.0",
+    "requestretry": "^7.0.0",
     "split": "^1.0.1"
   },
   "engines": {
